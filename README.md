@@ -1,7 +1,7 @@
 # pyrogram-session-maker
 
 ## Guide
-[![Run on Repl.it](https://repl.it/badge/github/legenhand/pyrogram-session-maker)](https://repl.it/github/legenhand/pyrogram-session-maker)
+[![Run on Repl.it](https://repl.it/badge/github/legenhand/pyrogram-session-maker)](https://pyrogram-session-maker.legenhand.repl.run)
 Create a API account here: https://my.telegram.org/apps
 
 1. Install pyrogram if you don't have (`pip install pyrogram`)
