@@ -42,7 +42,7 @@ def initial_selection(api_id, app_hash):
 	while True:
 		print("You want to make session for user bot or real bot?")
 		print("1 = user bot")
-		print("2 = real bot")
+		print("2 = Assistant bot")
 		createbot = input("[1/2] ")
 		if str(createbot).isdigit() and int(createbot) in (1, 2):
 			createbot = int(createbot)
